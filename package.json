@@ -1,0 +1,22 @@
+{
+  "name": "motionkit-rn",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx react-native start",
+    "android": "npx react-native run-android",
+    "ios": "npx react-native run-ios"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.4",
+    "react-native-reanimated": "^3.6.0",
+    "react-native-gesture-handler": "^2.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.23.0",
+    "@babel/runtime": "^7.23.0",
+    "metro-react-native-babel-preset": "^0.77.0"
+  }
+}
